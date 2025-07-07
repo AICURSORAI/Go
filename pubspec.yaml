@@ -5,7 +5,7 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.9.0-293.0.dev
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
@@ -63,5 +63,7 @@ flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/icons/emilia_chibi.png"
+
+
 
 
